@@ -1,22 +1,6 @@
 # Sivakarthika V
 
-Information Technology student passionate about software development and problem-solving. Proficient in Java, Python, and C, with practical experience in web development and hands-on projects.
-
----
-
-## 🔧 Skills
-
-- **Languages**: Java, C, Python  
-- **Soft Skills**: Adaptability, Time Management  
-- **Languages Known**: Tamil, English  
-
----
-
-## 🎓 Education
-
-- **B.Tech - IT**, K. Ramakrishnan College of Engineering, Trichy (CGPA: 8.16)  
-- **HSC**, Christhuraja MHSS, Tirupattur (84.5%)  
-- **SSLC**, Christhuraja MHSS, Tirupattur (94.6%)
+Information Technology student passionate about software development and problem-solving. Proficient in Java, Python, and C, with hands-on experience in web development and academic projects.
 
 ---
 
@@ -35,11 +19,23 @@ Information Technology student passionate about software development and problem
 
 ---
 
-## 🚀 Project
+<details>
+  <summary>🔧 Skills</summary>
 
-**Pizza Landing Page**  
-A responsive website for a fictional pizza shop.  
-**Tech**: HTML, CSS, JavaScript
+  - **Programming**: Java, C, Python  
+  - **Soft Skills**: Adaptability, Time Management  
+  - **Languages**: Tamil, English  
+</details>
+
+---
+
+<details>
+  <summary>🚀 Projects</summary>
+
+  **🍕 Pizza Landing Page**  
+  A responsive website for a fictional pizza shop.  
+  **Tech**: HTML, CSS, JavaScript
+</details>
 
 ---
 
