@@ -1,32 +1,50 @@
-# Sivakarthika V - Portfolio
+# Sivakarthika V
 
-Welcome to the portfolio repository of **Sivakarthika V**, an enthusiastic and dedicated Information Technology student with a strong foundation in programming and software development.
-
----
-
-## 📌 Summary
-
-A passionate and detail-oriented student currently pursuing a **Bachelor of Technology in Information Technology**. Proficient in multiple programming languages, Sivakarthika has hands-on experience in building web projects and actively engages in continuous learning through certifications and internships.
+Information Technology student passionate about software development and problem-solving. Proficient in Java, Python, and C, with practical experience in web development and hands-on projects.
 
 ---
 
-## 👩‍💻 Skills
+## 🔧 Skills
 
-- **Programming Languages**: Java, C, Python  
+- **Languages**: Java, C, Python  
 - **Soft Skills**: Adaptability, Time Management  
-- **Languages Spoken**: Tamil, English  
+- **Languages Known**: Tamil, English  
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in Information Technology**  
-  K. Ramakrishnan College of Engineering, Trichy  
-  CGPA: 8.16 (2022 - 2026)
+- **B.Tech - IT**, K. Ramakrishnan College of Engineering, Trichy (CGPA: 8.16)  
+- **HSC**, Christhuraja MHSS, Tirupattur (84.5%)  
+- **SSLC**, Christhuraja MHSS, Tirupattur (94.6%)
 
-- **Higher Secondary Certificate (HSC)**  
-  Christhuraja Matriculation Hr. Sec. School, Tirupattur  
-  Percentage: 84.5% (2022)
+---
 
-- **Secondary School Leaving Certificate (SSLC)**  
-  Christhuraja Matriculation Hr. Sec. School, Tirupattur  
+## 🏅 Certifications
+
+- Microsoft Azure Fundamentals (2024)  
+- Java Full Stack – VEI Technologies (2024)  
+- Generative AI & Python – GUVI (2023)  
+- Competitive Programming – NIT (2025)
+
+---
+
+## 💼 Internship
+
+- **Python Web Development** – Built web-based applications using Python.
+
+---
+
+## 🚀 Project
+
+**Pizza Landing Page**  
+A responsive website for a fictional pizza shop.  
+**Tech**: HTML, CSS, JavaScript
+
+---
+
+## 🔗 Connect
+
+- 📧 [sivakarthika1305@gmail.com](mailto:sivakarthika1305@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/sivakarthika-v)  
+- 💻 [GitHub](https://github.com/Sivakarthika13)
