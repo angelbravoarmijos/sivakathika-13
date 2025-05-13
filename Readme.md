@@ -4,27 +4,23 @@ Information Technology student passionate about software development and problem
 
 ---
 
-## 🏅 Certifications
-
-- Microsoft Azure Fundamentals (2024)  
-- Java Full Stack – VEI Technologies (2024)  
-- Generative AI & Python – GUVI (2023)  
-- Competitive Programming – NIT (2025)
-
----
-
-## 💼 Internship
-
-- **Python Web Development** – Built web-based applications using Python.
-
----
-
 <details>
   <summary>🔧 Skills</summary>
 
   - **Programming**: Java, C, Python  
   - **Soft Skills**: Adaptability, Time Management  
   - **Languages**: Tamil, English  
+</details>
+
+---
+
+<details>
+  <summary>🎓 Certifications</summary>
+
+  - Microsoft Azure Fundamentals (2024)  
+  - Java Full Stack – VEI Technologies (2024)  
+  - Generative AI & Python – GUVI (2023)  
+  - Competitive Programming – NIT (2025)
 </details>
 
 ---
@@ -41,6 +37,4 @@ Information Technology student passionate about software development and problem
 
 ## 🔗 Connect
 
-- 📧 [sivakarthika1305@gmail.com](mailto:sivakarthika1305@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/sivakarthika-v)  
-- 💻 [GitHub](https://github.com/Sivakarthika13)
+- 📧 [sivakarthika1305@gmail.com](mailto:sivak)
