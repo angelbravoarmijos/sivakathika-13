@@ -1,7 +1,6 @@
 # Sivakarthika V
 
-Hi! I'm **Sivakarthika V**, an Information Technology student with a passion for coding and creative problem-solving. I enjoy building user-friendly web projects and exploring new technologies. With a strong foundation in programming and a curiosity for learning, I'm working toward becoming a well-rounded software developer.
-
+Passionate coder exploring software development and real-world tech solutions.
 
 ---
 
