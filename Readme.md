@@ -34,7 +34,8 @@ Passionate coder exploring software development and real-world tech solutions.
 </details>
 
 ---
-
 ## 🔗 Connect
 
-- 📧 [sivakarthika1305@gmail.com](mailto:sivak)
+- 📧 [sivakarthika1305@gmail.com](mailto:sivakarthika1305@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/sivakarthika-v)  
+- 💻 [GitHub](https://github.com/Sivakarthika13)
